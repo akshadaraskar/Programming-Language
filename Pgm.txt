@@ -1,3 +1,7 @@
 C 
 CPP
 Core Java
+Adv Java 
+-JDBC
+-Servlet
+-JSP
